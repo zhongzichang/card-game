@@ -54,8 +54,10 @@ class AuthController extends Controller {
 
     // --- check ---
     public function getCheck(){
-        if( !Auth::check() ){
-            App::abort(401);
+        if( Auth::check() ){
+            return Response::json(array('logined' => true));
+        } else {
+            return Response::json(array('logined' => false));
         }
     }
 
