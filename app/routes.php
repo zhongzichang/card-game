@@ -31,3 +31,6 @@ Route::post('register',array('before'=>'guest','uses'=>'AuthController@postRegis
 Route::get('logout', array('as'=>'logout','before'=>'auth','uses'=>'AuthController@getLogout'));
 // check
 Route::get('check', 'AuthController@getCheck');
+// props
+Route::get('prop/{id}','PropController@showDetails');
+Route::controller('props', 'PropController');

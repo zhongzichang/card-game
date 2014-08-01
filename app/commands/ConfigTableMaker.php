@@ -40,7 +40,18 @@ class ConfigTableMaker extends Command {
         //
         $content = file_get_contents($this->argument('file'));
         $xml = new SimpleXMLElement($content);
-        print_r($xml);
+        //print_r($xml);
+
+        $table = $this->argument('table');
+        
+        switch($table){
+        case 'conf_props':
+            $this->makeProps($xml);
+            break;
+        default:
+            break;
+        }
+        
     }
 
     /**
@@ -68,5 +79,17 @@ class ConfigTableMaker extends Command {
             //array('example', null, InputOption::VALUE_OPTIONAL, 'An example option.', null),
         );
     }
+
+    protected function makeProps($xml){
+        DB::table('conf_props')->truncate();
+        foreach($xml->value as $item){
+            $confProp = new ConfProp();
+            foreach($item as $k => $v ){
+                $confProp[$k] = $v;
+            }
+            $confProp->save();
+        }
+    }
+
 
 }

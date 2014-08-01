@@ -8,7 +8,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>6</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -41,7 +41,7 @@
   <strength>3</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -74,7 +74,7 @@
   <strength>1</strength>
   <intellect>1</intellect>
   <agile>1</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -107,7 +107,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>2</physical_defense>
@@ -140,7 +140,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -173,7 +173,7 @@
   <strength>2</strength>
   <intellect>2</intellect>
   <agile>2</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -206,7 +206,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -239,7 +239,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -272,7 +272,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>3</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -305,7 +305,7 @@
   <strength>0</strength>
   <intellect>3</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -338,7 +338,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>2</physical_defense>
@@ -371,7 +371,7 @@
   <strength>5</strength>
   <intellect>5</intellect>
   <agile>5</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -404,7 +404,7 @@
   <strength>3</strength>
   <intellect>6</intellect>
   <agile>3</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>3</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -437,7 +437,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>2</physical_defense>
@@ -470,7 +470,7 @@
   <strength>3</strength>
   <intellect>3</intellect>
   <agile>6</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>3</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -503,7 +503,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -536,7 +536,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>10</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -569,7 +569,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -602,7 +602,7 @@
   <strength>3</strength>
   <intellect>3</intellect>
   <agile>3</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -635,7 +635,7 @@
   <strength>2</strength>
   <intellect>2</intellect>
   <agile>2</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -668,7 +668,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>12</ability_power>
   <physical_defense>0</physical_defense>
@@ -701,7 +701,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>9</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -734,7 +734,7 @@
   <strength>6</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -767,7 +767,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>6</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -800,7 +800,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -833,7 +833,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>6</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>3</physical_defense>
@@ -866,7 +866,7 @@
   <strength>2</strength>
   <intellect>2</intellect>
   <agile>2</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>5</physical_defense>
@@ -899,7 +899,7 @@
   <strength>0</strength>
   <intellect>6</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
   <magic_defense>0</magic_defense>
@@ -931,7 +931,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -964,7 +964,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -997,7 +997,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>30</ability_power>
   <physical_defense>0</physical_defense>
@@ -1030,7 +1030,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>250</hpMax>
+  <hp_max>250</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -1063,7 +1063,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>200</hpMax>
+  <hp_max>200</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>18</ability_power>
   <physical_defense>0</physical_defense>
@@ -1096,7 +1096,7 @@
   <strength>3</strength>
   <intellect>3</intellect>
   <agile>3</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>3</physical_defense>
@@ -1129,7 +1129,7 @@
   <strength>6</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -1162,7 +1162,7 @@
   <strength>7</strength>
   <intellect>7</intellect>
   <agile>7</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>1</physical_defense>
@@ -1195,7 +1195,7 @@
   <strength>6</strength>
   <intellect>6</intellect>
   <agile>6</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>40</ability_power>
   <physical_defense>0</physical_defense>
@@ -1228,7 +1228,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -1261,7 +1261,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>10</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -1294,7 +1294,7 @@
   <strength>14</strength>
   <intellect>6</intellect>
   <agile>6</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -1327,7 +1327,7 @@
   <strength>6</strength>
   <intellect>6</intellect>
   <agile>14</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -1360,7 +1360,7 @@
   <strength>6</strength>
   <intellect>14</intellect>
   <agile>6</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -1393,7 +1393,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -1426,7 +1426,7 @@
   <strength>0</strength>
   <intellect>6</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>15</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -1459,7 +1459,7 @@
   <strength>9</strength>
   <intellect>9</intellect>
   <agile>9</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>24</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -1492,7 +1492,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>20</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>5</physical_defense>
@@ -1525,7 +1525,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>280</hpMax>
+  <hp_max>280</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>4</physical_defense>
@@ -1558,7 +1558,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -1591,7 +1591,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>5</physical_defense>
@@ -1624,7 +1624,7 @@
   <strength>10</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -1657,7 +1657,7 @@
   <strength>9</strength>
   <intellect>9</intellect>
   <agile>9</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>3</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -1690,7 +1690,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -1723,7 +1723,7 @@
   <strength>0</strength>
   <intellect>10</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -1756,7 +1756,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>10</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -1789,7 +1789,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>18</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -1822,7 +1822,7 @@
   <strength>5</strength>
   <intellect>5</intellect>
   <agile>5</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -1855,7 +1855,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>10</physical_defense>
@@ -1888,7 +1888,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>21</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -1921,7 +1921,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>24</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -1954,7 +1954,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>24</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -1987,7 +1987,7 @@
   <strength>7</strength>
   <intellect>7</intellect>
   <agile>7</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -2020,7 +2020,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>5</physical_defense>
@@ -2053,7 +2053,7 @@
   <strength>16</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>10</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -2086,7 +2086,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>16</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -2119,7 +2119,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -2152,7 +2152,7 @@
   <strength>0</strength>
   <intellect>10</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -2185,7 +2185,7 @@
   <strength>25</strength>
   <intellect>25</intellect>
   <agile>25</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -2218,7 +2218,7 @@
   <strength>22</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>9</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>5</physical_defense>
@@ -2251,7 +2251,7 @@
   <strength>0</strength>
   <intellect>15</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>30</ability_power>
   <physical_defense>0</physical_defense>
@@ -2284,7 +2284,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>30</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -2317,7 +2317,7 @@
   <strength>0</strength>
   <intellect>10</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -2350,7 +2350,7 @@
   <strength>16</strength>
   <intellect>0</intellect>
   <agile>16</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>12</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -2383,7 +2383,7 @@
   <strength>10</strength>
   <intellect>10</intellect>
   <agile>10</agile>
-  <hpMax>200</hpMax>
+  <hp_max>200</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -2416,7 +2416,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>350</hpMax>
+  <hp_max>350</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>40</ability_power>
   <physical_defense>0</physical_defense>
@@ -2449,7 +2449,7 @@
   <strength>0</strength>
   <intellect>4</intellect>
   <agile>22</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>20</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -2482,7 +2482,7 @@
   <strength>0</strength>
   <intellect>10</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>22</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>5</physical_defense>
@@ -2515,7 +2515,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>30</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -2548,7 +2548,7 @@
   <strength>5</strength>
   <intellect>5</intellect>
   <agile>5</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -2581,7 +2581,7 @@
   <strength>0</strength>
   <intellect>12</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -2614,7 +2614,7 @@
   <strength>10</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>24</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -2647,7 +2647,7 @@
   <strength>0</strength>
   <intellect>25</intellect>
   <agile>0</agile>
-  <hpMax>325</hpMax>
+  <hp_max>325</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -2680,7 +2680,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>65</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -2713,7 +2713,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>24</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -2746,7 +2746,7 @@
   <strength>8</strength>
   <intellect>15</intellect>
   <agile>0</agile>
-  <hpMax>200</hpMax>
+  <hp_max>200</hp_max>
   <attack_damage>21</attack_damage>
   <ability_power>21</ability_power>
   <physical_defense>0</physical_defense>
@@ -2779,7 +2779,7 @@
   <strength>3</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>40</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -2812,7 +2812,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>60</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -2845,7 +2845,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>400</hpMax>
+  <hp_max>400</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>48</ability_power>
   <physical_defense>0</physical_defense>
@@ -2878,7 +2878,7 @@
   <strength>10</strength>
   <intellect>10</intellect>
   <agile>10</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -2911,7 +2911,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -2944,7 +2944,7 @@
   <strength>0</strength>
   <intellect>25</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -2977,7 +2977,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>46</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -3010,7 +3010,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>15</physical_defense>
@@ -3043,7 +3043,7 @@
   <strength>0</strength>
   <intellect>17</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>60</ability_power>
   <physical_defense>0</physical_defense>
@@ -3076,7 +3076,7 @@
   <strength>0</strength>
   <intellect>25</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>30</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -3109,7 +3109,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -3142,7 +3142,7 @@
   <strength>10</strength>
   <intellect>35</intellect>
   <agile>10</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -3175,7 +3175,7 @@
   <strength>10</strength>
   <intellect>26</intellect>
   <agile>10</agile>
-  <hpMax>250</hpMax>
+  <hp_max>250</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -3208,7 +3208,7 @@
   <strength>15</strength>
   <intellect>15</intellect>
   <agile>15</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>10</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -3241,7 +3241,7 @@
   <strength>0</strength>
   <intellect>6</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>40</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -3274,7 +3274,7 @@
   <strength>0</strength>
   <intellect>12</intellect>
   <agile>28</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>40</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -3307,7 +3307,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>48</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -3340,7 +3340,7 @@
   <strength>5</strength>
   <intellect>5</intellect>
   <agile>5</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -3373,7 +3373,7 @@
   <strength>12</strength>
   <intellect>21</intellect>
   <agile>0</agile>
-  <hpMax>300</hpMax>
+  <hp_max>300</hp_max>
   <attack_damage>31</attack_damage>
   <ability_power>31</ability_power>
   <physical_defense>0</physical_defense>
@@ -3406,7 +3406,7 @@
   <strength>20</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>20</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -3439,7 +3439,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>88</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -3472,7 +3472,7 @@
   <strength>25</strength>
   <intellect>25</intellect>
   <agile>25</agile>
-  <hpMax>250</hpMax>
+  <hp_max>250</hp_max>
   <attack_damage>30</attack_damage>
   <ability_power>60</ability_power>
   <physical_defense>0</physical_defense>
@@ -3505,7 +3505,7 @@
   <strength>25</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -3538,7 +3538,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>25</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -3571,7 +3571,7 @@
   <strength>0</strength>
   <intellect>30</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>40</physical_defense>
@@ -3604,7 +3604,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>60</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -3637,7 +3637,7 @@
   <strength>40</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>600</hpMax>
+  <hp_max>600</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -3670,7 +3670,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>30</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>30</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -3703,7 +3703,7 @@
   <strength>16</strength>
   <intellect>24</intellect>
   <agile>0</agile>
-  <hpMax>400</hpMax>
+  <hp_max>400</hp_max>
   <attack_damage>41</attack_damage>
   <ability_power>41</ability_power>
   <physical_defense>0</physical_defense>
@@ -3736,7 +3736,7 @@
   <strength>5</strength>
   <intellect>5</intellect>
   <agile>5</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -3769,7 +3769,7 @@
   <strength>10</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>100</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -3802,7 +3802,7 @@
   <strength>0</strength>
   <intellect>19</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>90</ability_power>
   <physical_defense>0</physical_defense>
@@ -3835,7 +3835,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>81</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -3868,7 +3868,7 @@
   <strength>0</strength>
   <intellect>20</intellect>
   <agile>34</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>60</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -3901,7 +3901,7 @@
   <strength>0</strength>
   <intellect>21</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>140</ability_power>
   <physical_defense>0</physical_defense>
@@ -3934,7 +3934,7 @@
   <strength>10</strength>
   <intellect>10</intellect>
   <agile>40</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>15</ability_power>
   <physical_defense>0</physical_defense>
@@ -3967,7 +3967,7 @@
   <strength>25</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>50</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>15</physical_defense>
@@ -4000,7 +4000,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>100</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -4033,7 +4033,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -4066,7 +4066,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -4099,7 +4099,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -4132,7 +4132,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -4165,7 +4165,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -4198,7 +4198,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -4231,7 +4231,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -4264,7 +4264,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -4297,7 +4297,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -4330,7 +4330,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -4363,7 +4363,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -4396,7 +4396,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -4429,7 +4429,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -4462,7 +4462,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -4495,7 +4495,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>5</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -4528,7 +4528,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>425</hpMax>
+  <hp_max>425</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>60</ability_power>
   <physical_defense>0</physical_defense>
@@ -4561,7 +4561,7 @@
   <strength>0</strength>
   <intellect>18</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>40</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -4594,7 +4594,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>450</hpMax>
+  <hp_max>450</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>72</ability_power>
   <physical_defense>0</physical_defense>
@@ -4627,7 +4627,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -4660,7 +4660,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -4693,7 +4693,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -4726,7 +4726,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -4759,7 +4759,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -4792,7 +4792,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -4825,7 +4825,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -4858,7 +4858,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -4891,7 +4891,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -4924,7 +4924,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -4957,7 +4957,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -4990,7 +4990,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -5023,7 +5023,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -5056,7 +5056,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -5089,7 +5089,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -5122,7 +5122,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -5155,7 +5155,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -5188,7 +5188,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -5221,7 +5221,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -5254,7 +5254,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -5287,7 +5287,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -5320,7 +5320,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -5353,7 +5353,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -5386,7 +5386,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -5419,7 +5419,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -5452,7 +5452,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -5485,7 +5485,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -5518,7 +5518,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -5551,7 +5551,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -5584,7 +5584,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -5617,7 +5617,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -5650,7 +5650,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -5683,7 +5683,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -5716,7 +5716,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -5749,7 +5749,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -5782,7 +5782,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -5815,7 +5815,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -5848,7 +5848,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -5881,7 +5881,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -5914,7 +5914,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -5947,7 +5947,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -5980,7 +5980,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -6013,7 +6013,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -6046,7 +6046,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -6079,7 +6079,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -6112,7 +6112,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -6145,7 +6145,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -6178,7 +6178,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -6211,7 +6211,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -6244,7 +6244,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -6277,7 +6277,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -6310,7 +6310,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -6343,7 +6343,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -6376,7 +6376,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -6409,7 +6409,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -6442,7 +6442,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -6475,7 +6475,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -6508,7 +6508,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -6541,7 +6541,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -6574,7 +6574,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -6607,7 +6607,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -6640,7 +6640,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -6673,7 +6673,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -6706,7 +6706,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -6739,7 +6739,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -6772,7 +6772,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -6805,7 +6805,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -6838,7 +6838,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -6871,7 +6871,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -6904,7 +6904,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -6937,7 +6937,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -6970,7 +6970,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -7003,7 +7003,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -7036,7 +7036,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -7069,7 +7069,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -7102,7 +7102,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -7135,7 +7135,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -7168,7 +7168,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -7201,7 +7201,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -7234,7 +7234,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -7267,7 +7267,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -7300,7 +7300,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -7333,7 +7333,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -7366,7 +7366,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -7399,7 +7399,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -7432,7 +7432,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -7465,7 +7465,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -7498,7 +7498,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -7531,7 +7531,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -7564,7 +7564,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -7597,7 +7597,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -7630,7 +7630,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -7663,7 +7663,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -7696,7 +7696,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -7729,7 +7729,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -7762,7 +7762,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -7795,7 +7795,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -7828,7 +7828,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -7861,7 +7861,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -7894,7 +7894,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -7927,7 +7927,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -7960,7 +7960,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -7993,7 +7993,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -8026,7 +8026,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -8059,7 +8059,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -8092,7 +8092,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -8125,7 +8125,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -8158,7 +8158,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -8191,7 +8191,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -8224,7 +8224,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -8257,7 +8257,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -8290,7 +8290,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -8323,7 +8323,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -8356,7 +8356,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -8389,7 +8389,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -8422,7 +8422,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -8455,7 +8455,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -8488,7 +8488,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -8521,7 +8521,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -8554,7 +8554,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -8587,7 +8587,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -8620,7 +8620,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -8653,7 +8653,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -8686,7 +8686,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -8719,7 +8719,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -8752,7 +8752,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -8785,7 +8785,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -8818,7 +8818,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -8851,7 +8851,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -8884,7 +8884,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
@@ -8917,7 +8917,7 @@
   <strength>0</strength>
   <intellect>0</intellect>
   <agile>0</agile>
-  <hpMax>0</hpMax>
+  <hp_max>0</hp_max>
   <attack_damage>0</attack_damage>
   <ability_power>0</ability_power>
   <physical_defense>0</physical_defense>
