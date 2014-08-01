@@ -19,9 +19,9 @@ class AuthController extends Controller {
         // remember me
         if( Auth::attempt(array('username'=>$username, 'password'=>$password), true)){
             // login successful
-            return Redirect::intended('demo');
+            return Response::json(array('success'=>true, 'message'=>'success'));
         } else {
-            return Redirect::route('login');
+            return Response::json(array('success'=>false, 'message'=>'fail to login, username or password not match'));
         }
     }
 
